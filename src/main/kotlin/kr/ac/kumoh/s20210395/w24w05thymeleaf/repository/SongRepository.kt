@@ -8,7 +8,7 @@ class SongRepository {
     protected val songs = listOf(
         Song(1, "Ditto", "NewJeans"),
         Song(2, "0310", "백예린"),
-        Song(3, "Ballade4", "Chopin"),
+        Song(3, "Ballade", "Chopin"),
     )
 
     val songsSize: Int
